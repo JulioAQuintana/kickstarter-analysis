@@ -22,7 +22,7 @@
 ### Analysis of Outcomes Based on Goals
 #### The following graph shows outcomes trend based on goals, also we can identify a successful positive trend in the different goals ranges
 
-![](recursos/Theater_Outcomes_vs_Launch.png)
+![](recursos/Outcomes_vs_Goals.png)
 
 ## Results
 
